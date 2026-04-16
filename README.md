@@ -46,5 +46,4 @@ Open to research assistant and student assistant positions in Germany
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/eylemyenture)
-[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:eylem.yenture@tu-ilmenau.de)
+[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:eylem.yentuer@tu-ilmenau.de)
