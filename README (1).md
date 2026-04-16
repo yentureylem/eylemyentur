@@ -8,7 +8,7 @@ Building ML systems for signal and sensor data — audio, imaging, and anomaly d
 ## 🔬 Research
 
 My thesis focuses on **context-aware music emotion recognition** — crowdsourced valence-arousal annotations, an LLM-based validation pipeline, and a 6-dimensional context framework for emotion perception.  
-Supervised by Prof. Dr. Matthias Hirth · Submitted to [CBMI 2025]
+Supervised by Prof. Dr. Matthias Hirth.
 
 ---
 
@@ -42,5 +42,4 @@ Open to research assistant and student assistant positions in Germany
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/eylemyenture)
 [![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:eylem.yenture@tu-ilmenau.de)
